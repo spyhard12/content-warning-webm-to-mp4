@@ -11,7 +11,7 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "Web Feedback System – STRIDE Threat Model",
+        "title": "Web Feedback System – Data Flow Diagram",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
@@ -1205,7 +1205,7 @@
             ]
           }
         ],
-        "description": "This STRIDE diagram models potential security threats for a web-based feedback system by analyzing interactions between users, application components, and data stores across defined trust boundaries."
+        "description": "This  diagram models data flow for a web-based feedback system by analyzing interactions between users, application components, and data stores across defined trust boundaries."
       }
     ],
     "diagramTop": 1,
