@@ -1,7 +1,7 @@
 {
   "version": "2.5.0",
   "summary": {
-    "title": "Data Flow Diagram",
+    "title": "Web Feedback System - STRIDE Threat Model",
     "owner": "Rafael Yap",
     "description": "A web application where users authenticate and submit feedback that is processed and stored securely.",
     "id": 0
